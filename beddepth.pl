@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-#Author: abains-src
+#Author: ab-src
 #BAM-BED DamID Data Parser
 #Must be placed in directory with BAM files and BED file
 #Must be run on a UNIX/LINUX system
